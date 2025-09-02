@@ -1,3 +1,4 @@
+# data-analytics-essentials
 ##🔹 1. Data (Data Mentah)
 
 Merupakan fakta atau angka tanpa konteks yang spesifik.
