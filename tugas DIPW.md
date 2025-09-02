@@ -1,5 +1,5 @@
 # data-analytics-essentials
-##🔹 1. Data (Data Mentah)
+## 🔹 1. Data
 
 Merupakan fakta atau angka tanpa konteks yang spesifik.
 Contoh:
@@ -14,7 +14,7 @@ Rating produk: 4.8/5
 
 Jumlah review: 2.300
 
-##🔹 2. Information (Informasi)
+## 🔹 2. Information 
 
 Pengolahan data menjadi insight awal.
 Contoh:
@@ -27,7 +27,7 @@ Smartphone mid-range (Rp2–4 juta) paling diminati.
 
 Penjualan melonjak 25% saat ada promo.
 
-##🔹 3. Knowledge (Pengetahuan)
+## 🔹3. Knowledge
 
 Pemahaman dari informasi untuk pengembangan strategi.
 Contoh:
@@ -40,7 +40,7 @@ Promo jadi pendorong utama penjualan.
 
 Deskripsi produk, foto, dan garansi memengaruhi keputusan beli.
 
-##🔹 4. Wisdom (Kebijaksanaan)
+## 🔹4. Wisdom
 
 Aksi strategis berdasarkan pengetahuan yang telah dikumpulkan.
 Contoh:
